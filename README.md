@@ -2,6 +2,7 @@
 
 ## Use Case Diagram
 ![use caseDay drawio](https://github.com/AZHRaihan/APBO_SI_Daycare/assets/145973780/7cf00916-ca55-4cf1-a7ee-bd6d77624cc2)
+
 Penjelasan : 
 •	Mendaftarkan anak : Orang tua mengisi formulir pendaftaran, staf memverifikasi data, anak terdaftar di sistem.
 
